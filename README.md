@@ -19,11 +19,12 @@ React.JS , Bootstrap, Chart.Js
 ### `Sample Images from the Project`
 
 Home Page : (It is populated with some random values when your start the project, you can delete it and add new expenses)
-![image](https://github.com/user-attachments/assets/c6e33028-16e7-4556-ac51-cadc60db8694)
+![image](https://github.com/user-attachments/assets/ce2a819d-a414-4a22-83a8-99bf76abc0dc)
 
 Visualization of Expenses
-![image](https://github.com/user-attachments/assets/7599c908-7e45-4c9c-bfff-a8bec324306f)
+![image](https://github.com/user-attachments/assets/90faadf9-44d5-42c7-a486-a60f2ce81f2d)
 
 All Expenses Page
-![image](https://github.com/user-attachments/assets/1bcf941a-db2f-483e-a76b-d8d71eae99df)
+![image](https://github.com/user-attachments/assets/da65e978-c2c5-41b4-981b-7ee48feed625)
+
 
